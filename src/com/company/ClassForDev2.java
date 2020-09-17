@@ -11,6 +11,6 @@ public class ClassForDev2 {
 
         System.out.println(y + " dev2 ");
 
-
+        System.out.println("1234");
     }
 }
