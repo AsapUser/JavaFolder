@@ -4,6 +4,7 @@ public class New {
     public static void main(String[] args) {
 
         System.out.println("Hi master");
+        System.out.println("hi dev");
 
     }
 }
