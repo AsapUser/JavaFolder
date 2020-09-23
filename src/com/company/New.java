@@ -5,6 +5,6 @@ public class New {
 
 
         System.out.println("Hi master");
-        
+
     }
 }
